@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index"
+  ],
+  "subPackages": [
+    {
+      "root": "packages/helloworld",
+      "pages": [
+        "pages/index"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "UNIAPP分包优化测试",
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#F8F8F8",
+    "navigationBarBackgroundColor": "#F8F8F8"
+  },
+  "preloadRule": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap49.json"
+}

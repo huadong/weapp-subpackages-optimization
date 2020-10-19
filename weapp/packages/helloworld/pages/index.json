@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "x-test": "/components/x-test/x-test"
+  }
+}
