@@ -1,6 +1,7 @@
 <template>
   <view>
     UNIAPP 分包优化测试
+    <navigator url="/packages/helloworld/pages/index">分包页面</navigator>
   </view>
 </template>
 
